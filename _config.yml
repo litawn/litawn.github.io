@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Litawn Gan"
 title_separator          : "-"
 name                     : &name "Litawn Gan"
-description              : &description "STEM educator | data science for social good, physics and philosophy, effective altruism | Stanford physics '18"
+description              : &description "STEM educator | data science for social good, physics and philosophy, effective altruism"
 url                      : https://litawn.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
